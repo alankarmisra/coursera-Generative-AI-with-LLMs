@@ -52,4 +52,4 @@ Reinforcement learning and LLM-powered applications
 [Week 3 Quiz](https://github.com/alankarmisra/coursera-Generative-AI-with-LLMs/blob/main/Week-3/Week-3_Quiz.md)
 
 ## Certifications
-[Certification](https://coursera.org/share/abd98e71f4b17faa5c391bc2aceff982) for Generative AI with LLMs.
+[Certification](https://coursera.org/share/875547f5eacc53a64965618f7bc5482d) for Generative AI with LLMs.
