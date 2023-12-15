@@ -50,3 +50,6 @@ Reinforcement learning and LLM-powered applications
 [Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/alankarmisra/coursera-Generative-AI-with-LLMs/blob/main/Week-3/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
 [Week 3 Quiz](https://github.com/alankarmisra/coursera-Generative-AI-with-LLMs/blob/main/Week-3/Week-3_Quiz.md)
+
+## Certifications
+[Certification](https://coursera.org/share/abd98e71f4b17faa5c391bc2aceff982) for Generative AI with LLMs.
